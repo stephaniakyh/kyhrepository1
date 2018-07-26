@@ -25,3 +25,32 @@
 # typing =input("What is your name? ")
 # hello(typing)
 # print(name)
+
+# def hello(name, age):
+#     print("hello, " + name)
+#     print(age + " years old")
+
+# # typing =input("What is your name? ")
+# # hello(typing)
+# # print(name)
+
+# name=input(" Your name:  ")
+# age=input("how old are you?")
+# hello(name, age)
+# hello(name)
+
+
+def hello(name='Stephania', age='53'):
+    print("hello, " + name )
+    print(age + "years old")
+
+# typing =input("What is your name? ")
+# hello(typing)
+# print(name)
+
+name=input(" Your name:  ")
+age=input(" How old are you? ")
+hello(name, age)
+hello(name)
+hello()
+hello(age='53', name='Stephania')
