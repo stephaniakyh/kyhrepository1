@@ -54,3 +54,11 @@ hello(name, age)
 hello(name)
 hello()
 hello(age='53', name='Stephania')
+
+
+tp1=input(" Your name:  ")
+tp2=input(" How old are you? ")
+# hello(name, age)
+# hello(name)
+# hello()
+hello(age=tp2, name=tp1)

@@ -9,6 +9,8 @@ for key, value in person.items():
     print("\nKey:"+key)
     print("Value:"+value)
 
+#key="name"
+#value="email"
 for key, value in person.items():
     print('\nKey\\ "'+key+'"')
     print('Value\\ "'+value+'"')   

@@ -9,7 +9,7 @@
 # num4=calculator.div(10,2)
 # print(num4)
 
-#
+#별칭
 import calculator as cal
 
 num1=cal.add(10,2)

@@ -11,7 +11,7 @@
 
 #
 from calculator import add,sub,mul,div
-# from calculator import *
+# from calculator import * #*는 모두를 지정함.
 result = add(1,2)
 print(result)
 result = sub(7,3)
