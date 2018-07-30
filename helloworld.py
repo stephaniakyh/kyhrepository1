@@ -5,3 +5,4 @@ print(a)
 print(b)
 c=20
 print(a+c)
+print("hello")
